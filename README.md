@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi I'm Gabriel Lucas
+
 Constantly seeking improvement
 
 
