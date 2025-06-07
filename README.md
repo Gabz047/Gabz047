@@ -1,5 +1,5 @@
 # 💫 About Me:
-Looking always for evolution
+Constantly seeking improvement
 
 
 ## 🌐 Socials:
