@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lucas de Miranda</h1>
 <h3 align="center">Constantly seeking improvement</h3>
 
+- 🔭 Hi I'm currently working at [Portal de HistoPatologia](https://histologia.fabricadesoftware.ifc.edu.br/)
+
+- 📫 How to reach me **gabriel.lucasmirand@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel lucas de miranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lucas de miranda" height="30" width="40" /></a>
+<a href="https://instagram.com/gabbe_lucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabbe_lucas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
