@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Sobre mim
-- Bacharel em **Sistemas de Informação**  
+- Técnico em **Informática para Internet**  
 - Desenvolvedor focado em **Web e Software**  
 - Sempre explorando novas tecnologias e boas práticas  
 
