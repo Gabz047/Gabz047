@@ -1,49 +1,66 @@
-# 👋 Hi, I'm Gabriel Lucas
-
-💡 Always learning. Always building.  
-🎯 Focused on creating impactful solutions through **technology + design**.  
-
----
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-lucas-de-miranda-35183b299/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabbe_lucas) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.lucasmirand@gmail.com)  
-
----
-
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django&logoColor=092E20)
-![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabz047&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabz047&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabz047&theme=radical&hide_border=true" height="160"/>
+# 💻 Olá, eu sou o Gabriel Lucas!
+<p align="left">
+  Apaixonado por tecnologia e desenvolvimento, sempre em busca de criar soluções que impactem positivamente pessoas e negócios.
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🔗 [Project 1](https://github.com/Gabz047/...) – *short description of what it does*  
-- 🔗 [Project 2](https://github.com/Gabz047/...) – *short description*  
-- 🔗 [Project 3](https://github.com/Gabz047/...) – *short description*  
+## 👨‍💻 Sobre mim
+- Bacharel em **Sistemas de Informação**  
+- Desenvolvedor focado em **Web e Software**  
+- Sempre explorando novas tecnologias e boas práticas  
 
 ---
 
-## ✨ Fun Fact
-> *"The best way to predict the future is to create it."*  
-> — Alan Kay  
+### 🐍 Minhas contribuições
+![snake gif](https://github.com/Gabz047/Gabz047/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-💡 *Profile generated & customized by [GPRM](https://gprm.itsvg.in/) + manual tweaks for that extra shine ✨*
+
+## 📈 Estatísticas do GitHub
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://github.com/Gabz047">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Gabz047&show_icons=true&bg_color=30,0f0c29,302b63,24243e&title_color=fff&text_color=fff&icon_color=00e5ff&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Gabz047">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabz047&layout=donut&bg_color=141424&title_color=00e5ff&text_color=fff&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+## 🌍 Portfólio (em construção)
+👉 [https://gabriellucas.dev](https://gabriellucas.dev)  
+
+---
+
+## 🚀 Tecnologias e Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
+
+---
+
+## 📬 Contato
+<p align="left">
+  <a href="mailto:gabriel.lucasmirand@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-lucas-de-miranda-35183b299/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/gabbe_lucas" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 Atividade Recente
+[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Gabz047&bg_color=141424&color=00e5ff&line=4fc3f7&point=ffffff&area=true&hide_border=true)](https://github.com/Gabz047)
