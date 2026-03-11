@@ -88,14 +88,6 @@ Estudante de Engenharia de Software e desenvolvedor Full Stack com experiência 
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://github.com/Gabz047/Gabz047/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📈 Atividade Recente
 
 <div align="center">
