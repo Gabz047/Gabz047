@@ -7,7 +7,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Vue.js+%E2%80%A2+React.js+%E2%80%A2+Node.js;UI%2FUX+Design+com+Figma+%F0%9F%8E%A8;Graduando+em+Eng.+de+Software+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vue.js+%E2%80%A2+React.js+%E2%80%A2+Node.js;UI%2FUX+Design+com+Figma;Graduando+em+Eng.+de+Software" alt="Typing SVG" />
 
 <br/>
 
