@@ -101,7 +101,7 @@ Estudante de Engenharia de Software e desenvolvedor Full Stack com experiência 
 
 <div align="center">
 
-🚧 Em construção — em breve em **[gabriellucas.dev](https://gabriellucas.dev)**
+🚧 Em construção
 
 </div>
 
