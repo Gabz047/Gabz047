@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucas-de-miranda-35183b299/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.lucasmirand@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabbe_lucas)
-[![Portfólio](https://img.shields.io/badge/Portfólio-141424?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://gabriellucas.dev)
 
 </div>
 
